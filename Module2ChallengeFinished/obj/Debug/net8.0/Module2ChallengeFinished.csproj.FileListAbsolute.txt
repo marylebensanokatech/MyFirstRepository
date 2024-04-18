@@ -1,0 +1,14 @@
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\bin\Debug\net8.0\Module2ChallengeFinished.exe
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\bin\Debug\net8.0\Module2ChallengeFinished.deps.json
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\bin\Debug\net8.0\Module2ChallengeFinished.runtimeconfig.json
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\bin\Debug\net8.0\Module2ChallengeFinished.dll
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\bin\Debug\net8.0\Module2ChallengeFinished.pdb
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.AssemblyInfoInputs.cache
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.AssemblyInfo.cs
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.csproj.CoreCompileInputs.cache
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.dll
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\refint\Module2ChallengeFinished.dll
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.pdb
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\Module2ChallengeFinished.genruntimeconfig.cache
+C:\Users\maryl\OneDrive - marylebens.com\AnokaTech-2024\ITEC2601-Database Application Development\Visual Studio Projects\Module2ChallengeFinished\obj\Debug\net8.0\ref\Module2ChallengeFinished.dll
